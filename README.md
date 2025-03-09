@@ -5,3 +5,5 @@ Jogo desenvolvido durante o curso da Alura.
 - Javascript
 - HTML
 - CSS
+
+Desenvolvido por: Jéssica Adelina.
