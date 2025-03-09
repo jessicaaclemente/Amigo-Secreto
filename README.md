@@ -1,5 +1,7 @@
 <h1 align="center"> Jogo do Amigo Secreto </h1>
-Jogo desenvolvido em HTML, CSS e JavaScript durante o curso da Alura.
+Jogo desenvolvido durante o curso da Alura.
 
-# Inicie o servidor
-npm start
+# Tecnologias Utilizadas
+- Javascript
+- HTML
+- CSS
